@@ -1,16 +1,5 @@
 
         {
             "id": 1,
-            "company_id": 1,
-            "discount_title": "Nike Airmax schoenen 25% korting",
-            "description": "maten 35-43. wit. zwart en rood",
-            "discount": "25%",
-            "image": "1557924103.jpg",
-            "start_date": "2019-05-21",
-            "end_date": "2019-06-25",
-            "active": 1,
-            "uses": 1,
-            "created_at": "2019-05-23T08:39:17.000000Z",
-            "updated_at": "2019-05-24T10:10:13.000000Z"
         }
 }
