@@ -13,6 +13,26 @@
                 "logo": "https://www.customwebsite.nl/theme/CW2017/img/logo_custom_website_full_service_internetbureau_groningen.png",
                 "phone": 123456789,
                 "created_at": "2019-05-23 10:39:17",
+                "updated_at": "2019-05-23 10:39:17",
+                "address": {
+                    "id": 1,
+                    "street": "Atoomweg",
+                    "housenumber": 2,
+                    "addition": "J",
+                    "zipcode": "9743 AK",
+                    "city": "Groningen",
+                    "created_at": "2019-05-23 10:39:17",
+                    "updated_at": "2019-05-23 10:39:17"
+                }
+            },
+            "address": {
+                "id": 1,
+                "street": "Atoomweg",
+                "housenumber": 2,
+                "addition": "J",
+                "zipcode": "9743 AK",
+                "city": "Groningen",
+                "created_at": "2019-05-23 10:39:17",
                 "updated_at": "2019-05-23 10:39:17"
             },
             "discount_title": "Nike Airmax schoenen 25% korting",
@@ -39,6 +59,26 @@
                 "logo": "https://www.customwebsite.nl/theme/CW2017/img/logo_custom_website_full_service_internetbureau_groningen.png",
                 "phone": 123456789,
                 "created_at": "2019-05-23 10:39:17",
+                "updated_at": "2019-05-23 10:39:17",
+                "address": {
+                    "id": 1,
+                    "street": "Atoomweg",
+                    "housenumber": 2,
+                    "addition": "J",
+                    "zipcode": "9743 AK",
+                    "city": "Groningen",
+                    "created_at": "2019-05-23 10:39:17",
+                    "updated_at": "2019-05-23 10:39:17"
+                }
+            },
+            "address": {
+                "id": 1,
+                "street": "Atoomweg",
+                "housenumber": 2,
+                "addition": "J",
+                "zipcode": "9743 AK",
+                "city": "Groningen",
+                "created_at": "2019-05-23 10:39:17",
                 "updated_at": "2019-05-23 10:39:17"
             },
             "discount_title": "2x macdonalds voordeelmenu voor 10,-",
@@ -64,6 +104,26 @@
                 "website": "Customwebsite.nl",
                 "logo": "https://www.customwebsite.nl/theme/CW2017/img/logo_custom_website_full_service_internetbureau_groningen.png",
                 "phone": 123456789,
+                "created_at": "2019-05-23 10:39:17",
+                "updated_at": "2019-05-23 10:39:17",
+                "address": {
+                    "id": 1,
+                    "street": "Atoomweg",
+                    "housenumber": 2,
+                    "addition": "J",
+                    "zipcode": "9743 AK",
+                    "city": "Groningen",
+                    "created_at": "2019-05-23 10:39:17",
+                    "updated_at": "2019-05-23 10:39:17"
+                }
+            },
+            "address": {
+                "id": 1,
+                "street": "Atoomweg",
+                "housenumber": 2,
+                "addition": "J",
+                "zipcode": "9743 AK",
+                "city": "Groningen",
                 "created_at": "2019-05-23 10:39:17",
                 "updated_at": "2019-05-23 10:39:17"
             },
