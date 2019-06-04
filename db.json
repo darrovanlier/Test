@@ -10,7 +10,7 @@
                 "email": "admin@admin.com",
                 "name": "CustomWebsite",
                 "website": "Customwebsite.nl",
-                "logo": "1557924860.jpg",
+                "logo": "https://www.customwebsite.nl/theme/CW2017/img/logo_custom_website_full_service_internetbureau_groningen.png",
                 "phone": 123456789,
                 "created_at": "2019-05-23 10:39:17",
                 "updated_at": "2019-05-23 10:39:17"
@@ -22,7 +22,7 @@
             "start_date": "2019-05-21",
             "end_date": "2019-06-25",
             "active": 1,
-            "uses": 1,
+            "uses": 2,
             "created_at": "2019-05-23T08:39:17.000000Z",
             "updated_at": "2019-05-24T10:10:13.000000Z"
         },
@@ -36,7 +36,7 @@
                 "email": "admin@admin.com",
                 "name": "CustomWebsite",
                 "website": "Customwebsite.nl",
-                "logo": "1557924860.jpg",
+                "logo": "https://www.customwebsite.nl/theme/CW2017/img/logo_custom_website_full_service_internetbureau_groningen.png",
                 "phone": 123456789,
                 "created_at": "2019-05-23 10:39:17",
                 "updated_at": "2019-05-23 10:39:17"
@@ -49,6 +49,32 @@
             "end_date": "2019-06-28",
             "active": 1,
             "uses": 8,
+            "created_at": "2019-05-23T08:39:17.000000Z",
+            "updated_at": "2019-05-24T10:10:34.000000Z"
+        },
+        {
+            "id": 3,
+            "company_id": 1,
+            "company": {
+                "id": 1,
+                "address_id": 1,
+                "activated": 1,
+                "email": "admin@admin.com",
+                "name": "CustomWebsite",
+                "website": "Customwebsite.nl",
+                "logo": "https://www.customwebsite.nl/theme/CW2017/img/logo_custom_website_full_service_internetbureau_groningen.png",
+                "phone": 123456789,
+                "created_at": "2019-05-23 10:39:17",
+                "updated_at": "2019-05-23 10:39:17"
+            },
+            "discount_title": "Tuinbank van €700,- voor €520,-",
+            "description": "De Forza Barolo hoek loungeset in de kleur Ash Grey is opgebouwd uit een aluminium frame met daarom heen een kunststof vlechtdraad ook wel wicker genoemd. Tuinmeubelen van wicker gecombineerd met een aluminium frame hebben een lange levensduur en zijn onderhoudsarm. Aluminium is sterk en licht van gewicht. Wij adviseren echter om uw tuinmeubelen gedurende de winterperiode op te bergen. Als dit niet mogelijk is, dan kunt u deze het beste onafgedekt buiten laten staan.",
+            "discount": "€180",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQRZAjyMt33U6ZKXiXV_ZuHgVe4O6PVQpeCeWji9BOrNRulj7yfoOPkGveOL5BcvkAWPTSHU-77O7NH4RECrgZnJ6p911Fh2x2vQW7aGSZBw4eCWD7jy1Ad&usqp=CAc",
+            "start_date": "2019-06-03",
+            "end_date": "2019-09-01",
+            "active": 1,
+            "uses": 1,
             "created_at": "2019-05-23T08:39:17.000000Z",
             "updated_at": "2019-05-24T10:10:34.000000Z"
         }
