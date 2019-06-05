@@ -1,0 +1,67 @@
+[
+        {
+            "id": 5,
+            "firstname": "Benissa",
+            "insertion": null,
+            "surname": "Achternaam",
+            "email": "benissa@gmail.com",
+            "password": "$2y$10$BdWhHYxNpfMAGTK1Y08zH.bvrQMuNTSxY5VY01WiBsjhzR3dcs1tS",
+            "is_admin": 0,
+            "blocked": 0,
+            "api_token": "7ELjo70GD79VWpp3Cfb6VdTbLbGtM4TrXSG9nILzhDtXiALb0c3XqLOinCm2",
+            "created_at": "2019-06-05T11:08:58.000000Z",
+            "updated_at": "2019-06-05T11:11:00.000000Z"
+        },
+        {
+            "id": 4,
+            "firstname": "Patrick",
+            "insertion": "de",
+            "surname": "Vos",
+            "email": "patrick@customwebsite.nl",
+            "password": "$2y$10$wTj8KMKdkOZT6klVq1Y2BOSEqpa15amEo0i.C3DvjXLOUxLHZT7e2",
+            "is_admin": 0,
+            "blocked": 0,
+            "api_token": null,
+            "created_at": "2019-05-29T12:45:52.000000Z",
+            "updated_at": "2019-05-29T12:45:52.000000Z"
+        },
+        {
+            "id": 3,
+            "firstname": "Erwin",
+            "insertion": "",
+            "surname": "Oostland",
+            "email": "erwinoostland1@gmail.com",
+            "password": "$2y$10$YQzG5/PhNY5kgCohW866su5/xbct6XeE58Jeipx7UtH66pFtAJzrq",
+            "is_admin": 0,
+            "blocked": 0,
+            "api_token": null,
+            "created_at": "2019-05-23T08:39:17.000000Z",
+            "updated_at": "2019-05-23T08:39:17.000000Z"
+        },
+        {
+            "id": 2,
+            "firstname": "test",
+            "insertion": "",
+            "surname": "test",
+            "email": "test@test.com",
+            "password": "$2y$10$SsH2qBUm7CncfhAR0CCage8jfw3nE9AYAAK.lhwhkuziPeFcCcTe2",
+            "is_admin": 0,
+            "blocked": 0,
+            "api_token": null,
+            "created_at": "2019-05-23T08:39:17.000000Z",
+            "updated_at": "2019-05-23T08:39:17.000000Z"
+        },
+        {
+            "id": 1,
+            "firstname": "Darro",
+            "insertion": "van",
+            "surname": "Lier",
+            "email": "admin@admin.com",
+            "password": "$2y$10$tuLxu/pzmxitzy8fuEeBYu6eg0HWlZIMDo15GwzVtdLU33gq/EShS",
+            "is_admin": 1,
+            "blocked": 0,
+            "api_token": null,
+            "created_at": "2019-05-23T08:39:17.000000Z",
+            "updated_at": "2019-05-23T08:39:17.000000Z"
+        }
+    ]
